@@ -1,4 +1,4 @@
-better version
+
 # 🐬 ClickerGameTS Desktop Edition
 
 **ClickerGameTS Desktop Edition** is a Windows desktop adaptation of ClickerGameTS, built using Electron and Node.js.
