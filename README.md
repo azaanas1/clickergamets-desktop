@@ -75,7 +75,7 @@ git clone https://gitlab.com/AleemHassa-1/gitlab-isthebest.git ClickerGameTS
 
 Official compiled installers are distributed separately from this source repository.
 
-Visit the ClickerGameTS Desktop Edition Releases repository to find published versions. Site: "https://github.com/azaanas1/clickergamets-desktop.git"
+Visit the ClickerGameTS Desktop Edition Releases repository to find published versions. Site: "https://github.com/azaanas1/clickergamets-desktop/releases"
 
 ## 🌐 Original Web Edition
 
