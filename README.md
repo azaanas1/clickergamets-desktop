@@ -12,8 +12,8 @@ It brings the ClickerGameTS experience into a standalone desktop application whi
 | Property | Details |
 |---|---|
 | Project | ClickerGameTS Desktop Edition |
-| Version | 2.0.0 |
-| Codename | The Farm Update |
+| Version | 2.1.0 |
+| Codename | Volcano Update |
 | Platform | Windows x64 |
 | Framework | Electron |
 | Runtime | Node.js |
