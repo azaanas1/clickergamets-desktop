@@ -82,7 +82,7 @@ Visit the ClickerGameTS Desktop Edition Releases repository to find published ve
 The original web edition remains independent and continues to be available at:
 
 https://clickergamets.pages.dev/
-
+Free code signing provided by SignPath.io, certificate by SignPath Foundation.
 ---
 
 **CGTGames™ — Games • Tools • Experiments • Archives • Easter Eggs**
