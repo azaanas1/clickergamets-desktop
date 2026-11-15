@@ -1,0 +1,40 @@
+
+{
+  "name": "clickergamets-desktop",
+  "version": "2.1.0",
+  "description": "ClickerGameTS Desktop Edition - Volcano Update",
+  "main": "main.js",
+  "author": "CGTGames",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win nsis"
+  },
+  "devDependencies": {
+    "electron": "^40.10.6",
+    "electron-builder": "^26.18.0"
+  },
+  "build": {
+    "appId": "com.cgtgames.clickergamets",
+    "productName": "ClickerGameTS Desktop Edition",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "icon.png",
+      "app/**/*"
+    ],
+    "win": {
+      "icon": "icon.png",
+      "target": "nsis",
+      "artifactName": "ClickerGameTS-Desktop-v2.1-Setup.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  }
+}
